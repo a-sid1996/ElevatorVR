@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.lift.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\soen\\Lift\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Lift [Testing]"
+        }
+      }
+    }
+  ]
+}
